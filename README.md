@@ -21,7 +21,7 @@ Please contact to  vizslice@gmail.com or viz.dataslice.co.uk  for get latest ver
 
 ## Demo
 ## Text Object
-![Example](https://github.com/vizslice/LoQumText-Qlik-Sense/blob/master/examples/images/Table-1.gif)
+![Example](https://github.com/vizslice/LoQumTable-Qlik-Sense/blob/master/examples/images/Table-1.gif)
 
 
 
