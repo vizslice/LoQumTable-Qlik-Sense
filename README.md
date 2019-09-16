@@ -1,15 +1,16 @@
 # LoQumTable Qlik Sense
-With LoQum Table , Its not simple text objects.current Version support many features . 
-- Text Item  
-- Additional Text Item
-- Image Object
-- Html Render HTML tags
-- Iframes
-- Times
-- Timers can connect to Actions such as 30s later goto 3rd page etc. 
-- Full customization Colour,size,border etc.
-- Image Resizing 
-- And please look :)
+With LoQum Table , It's fully customizable table extension. current version Supports
+- KPI indicators  
+- Web or email links in the columns
+- HTML render inside the columns
+- Font size,colour,justifying
+- Table borders colours size and micro parameters
+- Ready templates
+- Grand totals on top and bottom 
+- Column heading color
+- Column heading fonts 
+- Spark charts support inside the cells
+- More.
 
 
 
