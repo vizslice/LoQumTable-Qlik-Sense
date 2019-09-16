@@ -1,5 +1,5 @@
 # LoQumTable Qlik Sense
-With LoQum Text , Its not simple text objects.current Version support many features . 
+With LoQum Table , Its not simple text objects.current Version support many features . 
 - Text Item  
 - Additional Text Item
 - Image Object
@@ -20,8 +20,13 @@ Please contact to  vizslice@gmail.com or viz.dataslice.co.uk  for get latest ver
 
 
 ## Demo
-## Text Object
+## Text Object Sample - 1 
 ![Example](https://github.com/vizslice/LoQumTable-Qlik-Sense/blob/master/examples/images/Table-1.gif)
+
+## Text Object Sample - 2
+![Example](https://github.com/vizslice/LoQumTable-Qlik-Sense/blob/master/examples/images/Table-2.gif)
+
+
 
 
 
